@@ -15,9 +15,16 @@ Course Planner is a Vue.js-based web application designed to manage courses, cla
 - **Framework**: Vue.js
 - **File Handling**: CSV import/export for data management
 
-## Installation Instructions
-1. Download the project files.
-2. Open the `index.html` file in a web browser to launch the application.
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/course-planner.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd course-planner
+   ```
+3. Open the `index.html` file in your web browser to launch the application.
 
 ## Usage
 1. Launch the application by opening `index.html` in your browser.
@@ -26,6 +33,23 @@ Course Planner is a Vue.js-based web application designed to manage courses, cla
    - **Import Data**: Use the import buttons to load courses, service hours, busy hours, or classrooms from CSV files.
    - **Generate Schedule**: After entering all necessary data, click "Make Schedule" to generate a timetable.
 3. Review and edit the schedule as needed.
+
+## Contributing
+Contributions are welcome! If you would like to contribute:
+1. Fork the repository.
+2. Create a new branch for your feature or bugfix:
+   ```bash
+   git checkout -b feature-name
+   ```
+3. Commit your changes:
+   ```bash
+   git commit -m "Description of changes"
+   ```
+4. Push to your branch:
+   ```bash
+   git push origin feature-name
+   ```
+5. Open a pull request.
 
 ## Developers
 - **Berke Kabasakal** (22050111070)
